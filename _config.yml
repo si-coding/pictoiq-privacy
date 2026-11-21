@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: PictoIQ
+description: Your memories, made smarter.
+# Only files with front matter (such as the privacy policy) are built into pages.
+exclude:
+  - mobile/android
+  - mobile/lib
+  - mobile/test
+  - mobile/build
